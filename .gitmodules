@@ -1,0 +1,3 @@
+[submodule "MOOSEExt/MOOSE/moose"]
+	path = MOOSEExt/MOOSE/moose
+	url = git@github.com:idaholab/moose
